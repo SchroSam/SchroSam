@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on my cybersecurity degree at SAU in Magnolia AR
+- 🌱 I’m currently learning cyber forensics tools in Bash
+- 📫 How to reach me: schrosam@gmail.com
 
 <!--
 **SchroSam/SchroSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
