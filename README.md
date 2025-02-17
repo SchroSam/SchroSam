@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there my name is Samuel and I'm a college Jr. interested in programming and command line scripting👋
 - 🔭 I’m currently working on my cybersecurity degree at SAU in Magnolia AR
 - 🌱 I’m currently learning cyber forensics tools in Bash
 - 📫 How to reach me: schrosam@gmail.com
