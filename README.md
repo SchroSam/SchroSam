@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Samuel and I'm a college Jr. interested in programming and command line scripting.
+My name is Scott and I'm a college Jr. interested in programming and command line scripting.
 
 - 🔭 I’m currently working on my game development degree at SAU in Magnolia AR
 - 🌱 I’m currently learning unity game development
